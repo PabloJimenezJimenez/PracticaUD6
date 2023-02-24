@@ -1,6 +1,6 @@
 # PRACTICA UD6
 #### PARTE 1 SCRIPT BASH
-Para ejecutatar el script los apartados de instalar y desinstalar hace falta hacerlo como administrador. El de ejecución no hace falta.
+Para ejecutatar el script los apartados de instalar y desinstalar hace falta hacerlo como root. El de ejecución no hace falta.
 ```bash
 #!/bin/bash
 
